@@ -1,0 +1,8 @@
+body {
+  margin: 0px;
+  padding: 20px;
+  font-family: sans-serif;
+}
+.ant-input-search {
+  margin-bottom: 30px;
+}

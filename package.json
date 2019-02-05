@@ -1,0 +1,24 @@
+{
+  "name": "cm-coding-challenge",
+  "version": "0.0.1",
+  "private": false,
+  "author": "Ozren Davidov",
+  "dependencies": {
+    "antd": "^3.13.1",
+    "react": "^16.6.0",
+    "react-dom": "^16.6.0",
+    "react-redux": "^6.0.0",
+    "react-scripts": "2.1.0",
+    "redux": "^4.0.1",
+    "reselect": "^4.0.0"
+  },
+  "scripts": {
+    "start": "react-scripts start"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}
