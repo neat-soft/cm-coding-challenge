@@ -1,3 +1,6 @@
+## Author
+Ozren Davidov
+(https://www.upwork.com/fl/ozrendavidov)
 
 ## Available Script
 
